@@ -3,6 +3,6 @@ def say_hello(name)
   puts "Hello #{name}!"
 end
 
-name = Trevor
+name = "Trevor"
 
 say_hello
