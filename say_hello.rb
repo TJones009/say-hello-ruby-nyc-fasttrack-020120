@@ -5,4 +5,3 @@ end
 
 name = "Trevor"
 
-say_hello
