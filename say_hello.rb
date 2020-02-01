@@ -4,3 +4,5 @@ def say_hello(name)
 end
 
 name = Trevor
+
+say_hello
